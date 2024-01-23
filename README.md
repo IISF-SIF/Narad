@@ -38,23 +38,14 @@ This project introduces a robust and scalable Dynamic Query Resolution System de
 
 ## Getting Started
 
-1. Clone the repository:
+Clone the repository:
    ```
    git clone https://github.com/IISF-SIF/Narad
    ```
 
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+## Demonstration Video
 
-3. Set up Firebase credentials:
-   - Follow instructions in `firebase_credentials/README.md` to configure Firebase.
-
-4. Run the application:
-   ```
-   python app.py
-   ```
+   **Google Drive Link**: https://drive.google.com/drive/folders/11ODoqNLnvPUhRi3eZ50uVys6g3HXM468
 
 ## Acknowledgments
 
