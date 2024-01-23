@@ -40,7 +40,7 @@ This project introduces a robust and scalable Dynamic Query Resolution System de
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/IISF-SIF/Narad
    ```
 
 2. Install dependencies:
