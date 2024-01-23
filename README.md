@@ -46,9 +46,3 @@ Clone the repository:
 ## Demonstration Video
 
    **Google Drive Link**: https://drive.google.com/drive/folders/11ODoqNLnvPUhRi3eZ50uVys6g3HXM468
-
-## Acknowledgments
-
-Special thanks to the contributors and the open-source community for their valuable input and support.
-
-Feel free to explore, contribute, and enhance the capabilities of this Dynamic Query Resolution System!
