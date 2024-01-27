@@ -46,3 +46,9 @@ Clone the repository:
 ## Demonstration Video
 
    **Google Drive Link**: https://drive.google.com/drive/folders/11ODoqNLnvPUhRi3eZ50uVys6g3HXM468
+
+## Contributors
+
+We'd like to thank the following contributors:
+
+- [View Contributors](CONTRIBUTORS.md)
