@@ -49,6 +49,16 @@ Clone the repository:
 
 ## Contributors
 
-We'd like to thank the following contributors:
+<div align="center">
 
-- [View Contributors](CONTRIBUTORS.md)
+# Contributors
+
+[![Arav Jain](https://img.shields.io/badge/Arav_Jain-%E2%9D%A4%EF%B8%8F-brightgreen)](https://github.com/AravJain007)
+[![Vatsal Jha](https://img.shields.io/badge/Vatsal_Jha-%E2%9D%A4%EF%B8%8F-blue)](https://github.com/Vatsal-Jha256)
+[![Ayushman Kar](https://img.shields.io/badge/Ayushman_Kar-%E2%9D%A4%EF%B8%8F-red)](https://github.com/KarAyushman)
+[![Dilshad](https://img.shields.io/badge/Dilshad-%E2%9D%A4%EF%B8%8F-orange)](https://github.com/DILSHAD477)
+
+</div>
+
+
+- [View Contributions](CONTRIBUTORS.md)
