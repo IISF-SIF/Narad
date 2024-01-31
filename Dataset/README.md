@@ -8,8 +8,9 @@
 Welcome to the quirky world of Bhuvan Chatbot datasets! 🌐✨ We present three unique datasets meticulously crafted to fuel the intelligence of our beloved Bhuvan Chatbot. Dive into the realms of RAGDatabase, SFT, and Classifier for an extraordinary chatbot experience!
 
 ## RAGDatabase
-[![RAGDatabase Size](https://img.shields.io/github/languages/code-size/yourusername/RAGDatabase)](https://github.com/IISF-SIF/Narad/blob/main/Dataset/RAGDatabase.txt)
-[![RAGDatabase Stars](https://img.shields.io/github/stars/yourusername/RAGDatabase)](https://github.com/IISF-SIF/Narad/blob/main/Dataset/RAGDatabase.txt)
+[![RAGDatabase Size](https://img.shields.io/github/languages/code-size/IISF-SIF/Narad)](https://github.com/IISF-SIF/Narad/blob/main/Dataset/RAGDatabase.txt)
+[![RAGDatabase Stars](https://img.shields.io/github/stars/IISF-SIF/Narad)](https://github.com/IISF-SIF/Narad/blob/main/Dataset/RAGDatabase.txt)
+
 
 RAGDatabase is the heart and soul of Bhuvan, housing a collection of meticulously categorized and segmented data scraped from various websites. Each piece is tailor-made for easy retrieval, ensuring Bhuvan's responses are as sharp as a ninja's shuriken! 🥷📚
 
