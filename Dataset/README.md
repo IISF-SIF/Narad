@@ -5,7 +5,7 @@
 [![Classifier Badge](https://img.shields.io/badge/Classifier-Multilabel%20Classification-green)](https://github.com/IISF-SIF/Narad/blob/main/Dataset/classifier.csv)
 
 ## Overview
-Welcome to the quirky world of Bhuvan Chatbot datasets! 🌐✨ We present three unique datasets meticulously crafted to fuel the intelligence of our beloved Bhuvan Chatbot. Dive into the realms of RAGDatabase, SFT, and Classifier for an extraordinary chatbot experience!
+Welcome to the world of Bhuvan Chatbot datasets! 🌐✨ We present three unique datasets meticulously crafted to fuel the intelligence of our beloved Bhuvan Chatbot. Dive into the realms of RAGDatabase, SFT, and Classifier for an extraordinary chatbot experience!
 
 ## RAGDatabase
 
