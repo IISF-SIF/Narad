@@ -9,7 +9,7 @@ Welcome to the world of Bhuvan Chatbot datasets! 🌐✨ We present three unique
 
 ## RAGDatabase
 
-RAGDatabase is the heart and soul of Bhuvan, housing a collection of meticulously categorized and segmented data scraped from various websites. Each piece is tailor-made for easy retrieval, ensuring Bhuvan's responses are as sharp as a ninja's shuriken! 🥷📚
+RAGDatabase is the heart and soul of Bhuvan, housing a collection of meticulously categorized and segmented data scraped from Bhuvan websites. Each piece is tailor-made for easy retrieval, ensuring Bhuvan's responses are as sharp as a ninja's shuriken! 🥷📚
 
 ## SFT - Synthetic Fine-Tuning
 
