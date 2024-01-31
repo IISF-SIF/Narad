@@ -1,0 +1,1939 @@
+﻿Bhuvan: India's Gateway to Satellite Remote Sensing
+Bhuvan, ISRO's Geoportal, is an Earth observation and disaster management platform named after the Sanskrit word for Earth. Accessible at https://bhuvan.nrsc.gov.in, it is a comprehensive initiative by NRSC that acquires, processes, and disseminates remote sensing data. Bhuvan utilizes satellite data for various services, reflecting India's commitment to advanced technology for societal betterment. Detailed information is available at https://bhuvan.nrsc.gov.in/wiki/index.php/Home.
+
+Aadhaar Center Locator: 
+The website at https://bhuvan-app3.nrsc.gov.in/aadhaar/ optimizes access to Aadhaar enrollment centers (Aadhaar Kendra), providing a user-friendly platform for convenient Aadhaar-related services. With a comprehensive database, users can easily locate nearby centers, ensuring a hassle-free experience for enrollment, updates, and other services. This initiative reflects a commitment to enhancing citizen convenience and promoting widespread utilization of Aadhaar facilities. The dedication to leveraging technology showcases continuous efforts for the benefit of citizens.
+
+Empowering Rural Development: Mahatma Gandhi NREGA's GIS-Enabled Asset Management
+MGNREGA ensures rural livelihood with 100 days of wage employment, creating assets for those below the poverty line. The Ministry of Rural Development proposes a GIS solution on Bhuvan (https://bhuvan-app2.nrsc.gov.in/mgnrega/mgnrega_phase2.php), offering a consolidated view of rural India's asset information. This e-Governance initiative facilitates geospatial data exchange and resource management, promoting efficient decision-making for rural development. Detailed insights are available at https://bhuvan-app2.nrsc.gov.in/mgnrega/usrtasks/nrega_phase2/nrega_manual_v1.pdf .
+
+Accessing NRSC/ISRO Open Data and Product Archive:
+The NRSC/ISRO Open Data and Product Archive, accessible at https://bhuvan-app3.nrsc.gov.in/data/, provides a user-friendly platform for easy data selection, exploration, and download. Serving as a centralized portal, it enables effortless browsing and retrieval of diverse data and products, promoting accessibility for research and analysis. The intuitive interface ensures a smooth experience, emphasizing NRSC/ISRO's commitment to open data sharing. Direct data downloads encourage utilization of trusted assets, fostering innovation, research, and informed decision-making across domains.
+
+Bhuvan 2D: Empowering Users with Dynamic Mapping Capabilities
+Bhuvan 2D, an advanced web mapping service at https://bhuvan-app1.nrsc.gov.in/bhuvan2d/bhuvan/bhuvan2d.php, seamlessly integrates highly detailed imagery and map data. Developed on the OpenLayers Open Source Project, it offers robust mapping technology for efficient organization and visualization of satellite data. With impressive functionalities, users can navigate maps, add interactive points, polygons, and lines, and perform measurements directly on the terrain. Designed for user-friendliness and innovation, Bhuvan 2D democratizes access to sophisticated mapping capabilities, fostering effective spatial data utilization across diverse applications and industries.
+
+Bhuvan API: Empowering Geospatial Solutions for Diverse Applications
+Bhuvan's versatile API, detailed at https://bhuvan-app1.nrsc.gov.in/api/, empowers geospatial tasks in Andhra Pradesh. Offering features like proximity determination, village geocoding, and access to Land Use Land Cover (LULC) statistics, it caters to diverse applications. Specialized APIs, including Shortest Path and Ellipsoid to Geoid Conversion, enhance utility. The documentation facilitates effective implementation, showcasing Bhuvan's commitment to democratizing geospatial information and technology for innovative solutions and informed decision-making.
+
+Bhuvan Portal: Accessing Housing for All (PMAY) Program Data
+The Bhuvan portal, accessible at https://bhuvan-app1.nrsc.gov.in/hfa/housing_for_all.php, is a centralized repository for details on houses constructed under the Housing for All (PMAY) program. Users can input criteria like state, district, city, or Beneficiary ID to efficiently retrieve comprehensive data on PMAY houses. This user-friendly platform enhances accessibility, offering insights into housing project progress across regions. Designed for convenience, it promotes transparency in public housing projects, serving as a crucial resource for government officials, beneficiaries, and stakeholders involved in the housing sector.
+
+Bhuvan Portal: Tracking Housing for All (PMAY) Projects in Andhra Pradesh
+The Bhuvan portal, accessible at https://bhuvan-app1.nrsc.gov.in/apshcl, is a detailed repository for accessing information on houses constructed under the Housing for All (PMAY) program in Andhra Pradesh. Users can input parameters like district, mandal, village, Observer ID, Stage, or unique Beneficiary ID to retrieve comprehensive details. This user-friendly interface ensures transparency and accountability in housing project implementation, providing a granular view of progress across various regions. The portal serves as a valuable tool for monitoring and evaluating the effectiveness of the Housing for All initiative.
+
+NTR Vadiya Seva: Accessing Health Services with Bhuvan
+The NTR Vadiya Seva website, at https://bhuvan-app1.nrsc.gov.in/ntr, leverages Bhuvan's technology to offer a user-friendly platform for locating Drugs, Blood Banks, and health centers. This initiative streamlines the search for essential healthcare services, improving accessibility and response times during emergencies. Integrated with Bhuvan's mapping capabilities, NTR Vadiya Seva prioritizes accessible healthcare, reflecting a commitment to public health improvement and ensuring crucial services are readily available to those in need.
+
+Seeking Assistance and Engaging with Bhuvan Community: Bhuvan Forum
+The Bhuvan Forum, accessible at https://bhuvan.nrsc.gov.in/forum, is a valuable resource for users navigating Bhuvan's tools. Providing a dedicated space for discussions and assistance, this community-driven platform fosters collaborative problem-solving and knowledge exchange. Users can address queries, share experiences, and seek guidance from other Bhuvan enthusiasts, enriching their understanding and effectively utilizing Bhuvan tools for diverse applications. The forum leverages collective human expertise, creating a supportive environment alongside AI assistance.v
+
+Leveraging Remote Sensing for Water Resources Assessment: The Role of NRSC's Water Bodies Information System (WBIS)
+Accurate water resource assessment is crucial for sustainable development, and NRSC uses multispectral optical and microwave sensors with automated feature extraction for near-real-time water spread information. Accessible via the Water Bodies Information System (WBIS) Web-GIS portal (https://bhuvan-wbis.nrsc.gov.in/), it accommodates various spatial resolutions. Technical insights (https://bhuvan-wbis.nrsc.gov.in/static/media/WBIS_V3_TechnicalDocument.7ddd29063cb3dd644478.pdf) and a quick start guide (https://bhuvan-wbis.nrsc.gov.in/static/media/WBIS_V3_QuickStartGuide.24e796bbc82224a0541b.pdf) aid user exploration. NRSC's commitment to advanced technology supports informed decision-making and sustainable water resource management.
+
+Yuktdhara: Empowering Rural Planning through Geo-MGNREGA
+Yuktdhara, a collaborative initiative by ISRO and the Ministry of Rural Development, is a geospatial planning portal under Geo-MGNREGA, supporting decentralized decision-making. Utilizing ISRO's Bhuvan Geoportal, it serves as a repository for geotagged assets in various rural development programs. Accessible at https://bhuvan-app2.nrsc.gov.in/planner/plannerhome.php, Yuktdhara integrates thematic layers, high-resolution earth observation data, and analysis tools for planners to analyze past assets and propose new projects. The platform enhances accessibility, contributing to informed decision-making and sustainable rural development in India.
+
+Exploring the World in Three Dimensions: Bhuvan 3D 
+Explore Bhuvan 3D at https://bhuvan-app1.nrsc.gov.in/globe/3d.php, a captivating geospatial platform offering tools like Tools, Add Content, Snap Shot, Record and Play, Add Layer, Draw Tool, Measure Area, Measure Distance, Terrain Profile, and Info. Users can navigate 3D city models and overlay diverse information layers for measurement, drawing, and terrain profiles. With cutting-edge technology, Bhuvan's 3D Globe provides a user-friendly interface for precise visualization and analysis of geographic data, serving research, planning, and decision-making across domains.
+
+Rashtriya Uchchattar Shiksha Abhiyan (RUSA): Empowering Higher Education through Bhuvan
+The Rashtriya Uchchattar Shiksha Abhiyan (RUSA), initiated by the Ministry of Education, enhances higher education in India through strategic funding to institutions. Bhuvan's platform at https://bhuvan-app1.nrsc.gov.in/mhrd_rusa/ offers insights into institutions benefiting from RUSA, detailing their development. State and central-level moderators can refer to the tutorial at https://bhuvan-app1.nrsc.gov.in/mhrd_rusa/apptools/rusa/docs/RUSA_Tutorial_V2.pdf for guidance. The Bhuvan RUSA app manual at https://bhuvan-app1.nrsc.gov.in/mhrd_rusa/apptools/rusa/docs/rusa_manual.pdf provides a comprehensive guide, aiding informed decision-making and effective implementation of RUSA program objectives.
+
+Bhuvan: Facilitating Geographical Indication (GI) Services
+Bhuvan's dedicated Geographical Indication (GI) service at https://bhuvan-app1.nrsc.gov.in/geographicalindication/index.php is a vital tool for identifying and safeguarding products tied to specific regions. This platform enables users to explore a repository of products and their respective geographical indications, emphasizing the connection between quality, reputation, and the unique characteristics influenced by a region. Bhuvan's commitment to preserving and promoting region-specific product authenticity contributes to safeguarding traditional knowledge, fostering economic development, and maintaining the distinctiveness of products within their respective regions.
+
+Exploring the Real-Time Distribution of Indian Paradise Flycatchers
+For real-time information on the distribution of Indian paradise flycatchers during the winter season in southern India and western Sri Lanka, visit https://bhuvan-app1.nrsc.gov.in/flycatchers/flycatchers.php. This platform offers dynamic insights into the presence of both local breeding populations and visiting migrants, supporting bird enthusiasts, researchers, and conservationists. By tracking their movements and understanding habitat preferences, Bhuvan's initiative contributes to the conservation and appreciation of these migratory birds, aiding efforts to protect their habitats in the region.
+
+School Bhuvan – NCERT: Interactive Map-Based Learning for Students
+School Bhuvan – NCERT, accessible at https://bhuvan-app1.nrsc.gov.in/mhrd_ncert, offers map-based learning experiences in English and Hindi. Aimed at cultivating students' awareness of India's natural resources for sustainable development, the portal uses interactive, high-resolution maps. Live maps for Class 9th (https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/sb/sb.php#school:NINTH) and Class 10th (https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/sb/sb.php#school:TENTH) enhance learning, fostering a deeper understanding of geography and environmental concepts. School Bhuvan – NCERT is an innovative educational tool encouraging interest in India's geographical heritage.
+
+NABARD Watershed Projects Monitoring: Harnessing Geospatial Technology
+NABARD and NRSC collaborate on a web portal and mobile app (https://bhuvan-app1.nrsc.gov.in/nabard) for real-time monitoring of watershed projects, utilizing geospatial technologies. Notable achievements as of May 31, 2023, include digitizing 1111 projects, geotagging 1,25,229 assets, and conducting 659 impact evaluations. Another Geoportal for Monitoring and Evaluating IWMP Watersheds (https://bhuvan-app1.nrsc.gov.in/iwmp) integrates satellite and field data, aiding informed decision-making in watershed management across states.
+
+Bhuvan's Tourism Web GIS: Discovering Destinations with Ease
+Bhuvan's Tourism Web GIS, at https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php, offers a user-friendly platform for effortless city and tourism spot exploration. Users can select cities or destinations, discover points of interest, and access routing information seamlessly. With efficient routing for optimized travel experiences, this GIS-driven platform enhances travel planning, enabling informed decisions for a rich and fulfilling experience. It stands as a valuable tool for seamless destination exploration and efficient navigation.
+
+Exploring Himachal Pradesh Forests: A Comprehensive Resource
+The website https://bhuvan-app1.nrsc.gov.in/hp_forest offers comprehensive insights into the forest ecosystems of Himachal Pradesh, covering topics such as Fire Management, Asset Management, Green India Mission, Mid Himalayan Watershed Development Project, Climate Vulnerability, and Wildlife. This informative hub provides details on fire management strategies, asset management practices, initiatives like the Green India Mission, and projects such as the Mid Himalayan Watershed Development Project. It serves as a crucial resource for researchers, conservationists, policymakers, and individuals interested in understanding and preserving the rich ecological landscape of Himachal Pradesh's forests.
+
+National Database for Emergency Management (NDEM): Strengthening Disaster Preparedness
+The Ministry of Home Affairs (MHA) emphasizes the development of geospatial databases for effective disaster mitigation and preparedness. The National Database for Emergency Management (NDEM), accessible at https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php, serves as a crucial repository supporting stakeholders at all levels. The NDEM Version 2.0 portal provides disaster management services, detailed in the user manual at https://bhuvan-app1.nrsc.gov.in/disaster/get/ndem_vpn_user_manual.pdf. Supporting global disaster relief efforts, the platform offers data assistance for international disasters at https://bhuvan-app1.nrsc.gov.in/international_disaster/disaster.php, showcasing NDEM's commitment to international emergency response endeavors.
+
+Bhuvan-Thematic Services: Accessing and Integrating Thematic Datasets
+Bhuvan-Thematic Services, at https://bhuvan-app1.nrsc.gov.in/thematic/thematic/index.php, enables users to select, explore, and query thematic datasets seamlessly. The platform allows integration into systems and applications using OGC Web Services, introducing the LULC50K-2005-2006 dataset with 24 classes in its initial phase. The help document at https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html offers comprehensive guidance. Bhuvan-Thematic Services aims to expand its offerings, providing users with diverse thematic data for enhanced decision-making and insights in the future.
+
+Leveraging Agro-Meteorological Data for Agricultural Enhancement
+The website https://bhuvan-app1.nrsc.gov.in/imd/ provides key weather parameters across India, crucial for optimizing agricultural practices. Air Temperature, Humidity, Wind Speed, Solar Radiation, Soil Temperature, and Rainfall data influences crop decisions. The repository aids crop planning and pest management, optimizing agricultural output. The document at https://bhuvan-app1.nrsc.gov.in/imd/apptools/imd/docs/IMD_Tech_Doc_WPN.pdf offers technical details for leveraging meteorological parameters in agriculture.
+
+Transforming Agricultural Irrigation: PMKSY to PDMC
+Initiated on July 1, 2015, the Pradhan Mantri Sinchayee Yojana (PMKSY), now known as the Per Drop More Crop (PDMC) initiative, aims to optimize irrigation investments, expand cultivable areas, enhance on-farm water efficiency, and promote water-saving technologies. Facilitated under the Ministry of Agriculture, Government of India, the "Geo-Tagging of PMKSY-PDMC Assets using Geospatial Technologies" is done through the Bhuvan-PDMC Android App for field data collection. Geo-tagged data is accessible at https://bhuvan-app1.nrsc.gov.in/pdmc/. For more information and app download, refer to the document: https://bhuvan-app1.nrsc.gov.in/pdmc/docs/pdmc_app_manual_v1.0.pdf.
+
+Unveiling Heatwave Potential: TBH and MTBH Mapping
+Temperature-based Heat (TBH) and Moisture and Temperature-based Heat (MTBH) maps serve as indicators of regions susceptible to extreme heat conditions, showcasing daily maximum temperatures and deviations from climatological norms. Access these visualizations at https://bhuvan-app1.nrsc.gov.in/heatwave/. Delve into the product summary document at https://bhuvan-app1.nrsc.gov.in/heatwave/usrtasks/heatwave/document/HWO_Doc.pdf for a comprehensive overview, providing details on the utilization and interpretation of TBH and MTBH maps in identifying areas prone to severe heatwaves.
+
+Bhuvan Ganga: Geospatial Support for Clean Ganga Mission
+Bhuvan Ganga is a vital Geospatial Support system for the National Mission for Clean Ganga, providing insights into drainage, pollution sources, water quality, utilities, treatment plants, monitoring locations, and project-related information. The dedicated website is https://bhuvan-app1.nrsc.gov.in/mowr_ganga/. The mobile app, "Bhuvan Ganga," enhances this initiative, offering detailed information and functionalities. For guidance on utilizing the app, refer to the document at https://bhuvan-app1.nrsc.gov.in/mowr_ganga/usrtasks/ganga/get/BhuvanGangaMobileApp_Help.pdf, outlining features and usage for effective support of the Clean Ganga Mission.
+
+Exploring Himachal Pradesh Forests: A Comprehensive Resource 
+The website https://bhuvan-app1.nrsc.gov.in/hp_forest is a hub for Himachal Pradesh's forest ecosystems, covering Fire Management, Asset Management, Green India Mission, Mid Himalayan Watershed Development Project, Climate Vulnerability, and Wildlife. It offers details on these aspects and hosts administrative-level data in collaboration with the Himachal Pradesh Forest Department. Users can explore features like forest fire alerts, administrative boundaries, climate vulnerability assessments, and wildlife data visualization at https://bhuvan-app1.nrsc.gov.in/hp_forest/hpfd.php. This collaboration provides valuable tools for monitoring and managing Himachal Pradesh's forest ecosystem.
+
+Exploring Telangana State Forests: Insights and Mapping
+Visit https://bhuvan-app1.nrsc.gov.in/ts_forest/ for comprehensive insights into Telangana State Forests. This resource covers Fire Management, Land Use Land Cover, and Wasteland assessment, providing a detailed understanding of the forest ecosystem. Visualize forests based on categorization into circles, divisions, ranges, blocks, and beats for a comprehensive overview. Stakeholders and interested individuals can leverage this website for critical data, supporting effective forest management and conservation.
+
+Discovering Punjab State Forests
+Explore Punjab State Forests at https://bhuvan-app1.nrsc.gov.in/pb_forest/, offering detailed information on the forest landscape, including Land Use Land Cover and Wasteland assessments. Visualize forests categorized by circle, division, range, block, and beat, gaining insights into distribution. The website serves as a valuable resource for stakeholders and researchers, providing pertinent information for effective management, conservation, and utilization of Punjab's diverse forest resources.
+
+Exploring Uttarakhand State Forests: Comprehensive Management Insights
+Explore detailed information about Uttarakhand State Forests at https://bhuvan-app1.nrsc.gov.in/uk_forest/. The platform offers a multi-view format with options like Map, Satellite, Terrain, Hybrid, and more. Providing valuable insights into forest and wildlife management, users can explore forests categorized by circle, division, range, block, and beat. This allows comprehensive visualization and analysis of forest-related data, covering Land Use Land Cover, Wasteland, Geomorphology, Lineament, and Weather. The platform also includes information on fire and asset management, eco-tourism, wildlife management, the Namami Ganga Project, and departmental maps. Serving as a resource-rich tool, it caters to stakeholders, conservationists, researchers, and individuals interested in understanding and managing Uttarakhand's forest ecosystem.
+
+Karnataka Forest Department's Collaborative Data Integration on Bhuvan
+The Karnataka Forest Department, in collaboration with the state government, has collaborated with Bhuvan by sharing comprehensive data sets. This initiative aims to provide users with an application that facilitates the visualization of various forest-related aspects such as forest fires, assets, alterations in forest cover, village demarcations, water bodies, landscapes, national parks, and beat boundaries. By accessing the Bhuvan portal at https://bhuvan-app1.nrsc.gov.in/ka_forest/ , users gain the ability to explore and visualize an array of forest-related information. This collaborative effort between the Karnataka Forest Department and Bhuvan serves as a valuable resource, empowering users to understand, monitor, and explore diverse facets of the state's forest landscapes and related features.
+
+NARL's Weather Forecasting and Climate Research
+The National Atmospheric Research Laboratory (NARL) conducts in-depth research on weather and climate, with a specific focus on the South Peninsular Indian area through its Weather and Climate Research Group (WCRG). The group aims to enhance real-time weather forecasting methodologies, assimilation techniques, and model parameterization. The current weather forecast products cover daily parameters like temperature, wind, and humidity, as well as meteorological parameters predicting severe weather events. These forecasts, including data for various pressure levels and vertical profiles, are accessible on the "Weather Climate Environment Modelled Products" website at https://bhuvan-app1.nrsc.gov.in/narl/. For more details on the platform's functionalities, refer to the technical document at https://bhuvan-app1.nrsc.gov.in/narl/apptools/narl/docs/NARL_Weather_Forecast_Technical_Document_v1.1.pdf.
+
+Bhuvan Haryana: Comprehensive State Information Repository
+Access the Bhuvan Haryana website at https://bhuvan-app1.nrsc.gov.in/state/HR to explore a comprehensive repository of information about the state of Haryana. This platform offers diverse datasets covering essential aspects of the state. The provided datasets include Active Agriculture Fire, Agriculture and Soils, Geology and Mines, Ground Water Prospects, Land Use Land Cover, Revenue Boundary, ITI (Industrial Training Institutes), PHED (Public Health Engineering Department), among others. These datasets provide valuable insights into different facets of Haryana's geography, resources, and developmental aspects. By leveraging this resource-rich website, stakeholders, researchers, policymakers, and individuals interested in Haryana can access and utilize comprehensive datasets for informed decision-making, planning, and analysis across multiple domains within the state.
+
+Rediscovering the Lost Saraswati River: A Journey through History and Geography
+The `Lost Saraswati River' was a significant waterway during the Vedic Period in Northwest India. Originating in the Himalayas, it flowed between the Indus and Ganges Rivers, passing through Punjab, Haryana, Rajasthan, and Gujarat before draining into the Arabian Sea. Around 5000 BP, climatic and tectonic changes led to its disappearance, but it's believed to persist beneath the Thar Desert. The palaeochannels of this ancient river are conserved beneath aeolian sands. The site https://bhuvan-app1.nrsc.gov.in/saraswati/ offers visual representations, historical maps, satellite imagery, paleochannels, archaeological sites, and more, providing a comprehensive exploration of the lost Saraswati River's legacy.
+
+Exploring Satellite Imagery of India on Bhuvan
+For a comprehensive view of satellite imagery covering India, navigate to the website https://bhuvan-app1.nrsc.gov.in/web_view/index.php. This platform provides access to detailed satellite maps capturing various regions across the country. Upon accessing the website, users can toggle between two viewing modes, accessible from the top right corner of the webpage. These modes offer different perspectives and functionalities to explore the satellite imagery of India in depth. Utilize this user-friendly platform to explore and analyze high-resolution satellite imagery, enabling a detailed view of diverse landscapes, urban areas, natural features, and more across the Indian subcontinent.
+
+Empowering Minority Communities: PMJVK Project Visualization
+The Pradhan Mantri Jan Vikas Karyakram (PMJVK) focuses on enhancing socio-economic infrastructure for minority communities, targeting education, health, and skill development to narrow the socio-economic gap. Formerly the Multi-sectoral Development Programme (MsDP), it underwent restructuring for better implementation. Geotagged projects under PMJVK can be accessed at https://bhuvan-app1.nrsc.gov.in/pmjvk. The Field Data Viewer allows users to search and visualize projects by state, district, mandal, sector, type, and geotag status. The platform promotes transparency and monitoring, offering statistical insights into the distribution and progress of PMJVK projects for the upliftment of minority communities.
+
+Empowering Children: Anganwadi Program Project Locator
+The Anganwadi program, part of the Integrated Child Development Services (ICDS), addresses child hunger and malnutrition through rural childcare centers. "Anganwadi" means "courtyard shelter." To locate specific projects, visit https://bhuvan-app1.nrsc.gov.in/anganwadi/. Users can search using the Anganwadi code or details like state, district, project, sector, AWCS (Anganwadi Center Supervisor), and AWWS (Anganwadi Worker/Helper). This platform facilitates comprehensive monitoring, assessment, and support for Anganwadi projects, contributing to the well-being and development of children in India.
+
+COVID-19 Awareness and Monitoring Platform: Stay Informed, Stay Safe
+Coronavirus disease (COVID-19) caused by the SARS-CoV-2 virus poses a global health threat. Stay informed about the disease and track live statistics or time series data in India by states or districts at https://bhuvan-app3.nrsc.gov.in/corona/. The platform provides crucial information on active cases, recoveries, and fatalities, enabling a better understanding of the disease's spread. Adhere to safety measures, maintain a minimum distance, wear masks properly, practice hand hygiene, get vaccinated, and follow local health directives. COVID-19 test center locations are available at https://bhuvan-app3.nrsc.gov.in/corona/corona_dashboard/dashboard/dashboard.php?type=citizen for added convenience. Empower yourself to make informed decisions and contribute to curbing the spread of this infectious disease.
+
+Exploring Organizations: Detailed Information Repository
+For comprehensive details about various entities such as Autonomous Bodies, Centres of Excellence, ENVIS Centres, Focal Points, Institutes/Statistical Bodies/Registered Societies, Ministries, Public Sector Undertakings, Regional Offices, Regional Centres (BSI, ZSI, FSI, WCCB, NAEB), and Subordinate Offices, visit the website https://bhuvan-app1.nrsc.gov.in/moef_cris .
+This platform serves as an information repository, providing insights into the roles, functions, and details of these organizations. Users can access a wealth of information regarding these entities to gain a better understanding of their purposes, activities, and contributions within the environmental landscape.
+
+Bhuvan NOEDA Data Products and Thematic Services Repository
+Access a diverse range of Bhuvan NOEDA Data Products at https://bhuvan-app1.nrsc.gov.in/2dresources/bhuvanstore.php. The platform offers an extensive array of data products spanning Satellite, Terrestrial Sciences, Ocean Sciences, Atmospheric and Climate Sciences, Cryospheric, and ISRO Geosphere Biosphere Programme Products. Bhuvan also provides Thematic Services across various domains. Users can explore and access a multitude of data products and thematic services related to environmental and Earth sciences, fostering research, analysis, and understanding in these fields. This resource-rich platform serves as a repository of valuable data and services, catering to scientists, researchers, policymakers, and individuals keen on exploring and utilizing data related to Earth observation and environmental sciences offered by Bhuvan.
+
+Bhuvan RBI: Mapping and Management Support for Indian Banks
+Bhuvan RBI, accessible at https://bhuvan-app1.nrsc.gov.in/rbi, is an initiative supporting the Reserve Bank of India (RBI) in mapping and managing banks across India. The Android app facilitates geotagging, providing precise location identification for branches, ATMs, administrative offices, and electronic kiosks. A collaborative effort between RBI and the National Remote Sensing Center (NRSC) under ISRO, the platform enhances asset distribution visualization, aiding RBI's management capabilities nationwide. For more information about RBI, visit https://www.rbi.org.in/. Bhuvan RBI serves as a pivotal tool for efficient mapping and oversight of banking facilities throughout the country.
+
+Bhuvan Geospatial Governance Dashboard: Information Portal Index
+The Geospatial Governance Dashboard, accessible at https://bhuvan-app1.nrsc.gov.in/sitemap, serves as an index, categorizing various Bhuvan geospatial information portals alphabetically by the names of the ministries they represent. For instance, the Ministry of Agriculture is under the letter 'A'. This centralized repository facilitates easy access to different Bhuvan geospatial information portals associated with respective ministries, allowing convenient navigation and exploration of diverse geospatial data and services catering to various governmental departments and sectors across the country.
+
+Bhuvan Tourism Web GIS: Explore and Navigate Places of Interest
+The Tourism Web GIS platform at https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php, accessible through Bhuvan, enables users to explore cities and tourist attractions. The user-friendly interface allows selection of cities, accessing information about places of interest, searching nearby places, and utilizing routing functionalities. Users can also contribute by sharing data about their favorite destinations, enriching the tourism database. To share data, send it to bhuvan[at]nrsc[dot]gov[dot]in, contributing to an enhanced exploration experience for others using Bhuvan's platform.
+
+Amritsar Tourism Web GIS: Explore Attractions and Services
+The Amritsar Tourism Web GIS, accessible at https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php?tourismid=1 via Bhuvan, provides a comprehensive platform for exploring tourist attractions in Amritsar. The user-friendly interface enables users to select preferred places, accessing information about attractions, nearby places, food hubs, travel options, accommodations, and routing services. Users interested in contributing data about their favorite spots in Amritsar can share information by emailing bhuvan[at]nrsc[dot]gov[dot]in. This contributes to enriching the tourism database for Amritsar, enhancing the overall exploration experience for users on Bhuvan's platform.
+
+Exploring Telangana State Forests: Comprehensive Management Insights
+Explore detailed information about Telangana State Forests at https://bhuvan-app1.nrsc.gov.in/tr_forest/. This platform provides valuable insights into forest and wildlife management within the state. Users can navigate forests categorized by circle, division, range, block, and beat, allowing comprehensive visualization and analysis of forest-related data. It serves as a valuable tool for stakeholders, conservationists, researchers, and individuals interested in understanding the dynamics and management practices of Telangana's forest ecosystem.
+
+Ludhiana Municipal GIS in Bhuvan: Empowering Citizens and Administrators
+The Municipal GIS project on Bhuvan, accessible at https://bhuvan-app1.nrsc.gov.in/municipal/municipal.php, provides Ludhiana citizens with a comprehensive platform. This resource offers information about wards, facilities, government schemes, and a grievance redressal system. It serves as a valuable resource for citizens and facilitates administrators and planners in online planning. The platform enhances governance by providing tools for decision-making, resource allocation, and urban development strategies. Utilizing this portal contributes to improved governance, civic services, and urban planning in Ludhiana, fostering transparency and citizen engagement in the city's development.
+
+Bhuvan Toll Information System: Accessing Toll Plaza Details
+The Bhuvan Toll Information System, available at https://bhuvan-app1.nrsc.gov.in/toll/morth_nhai.php, is a valuable tool providing citizens with comprehensive details about toll plazas. Users can access information on toll charges for different vehicle types and discover nearby amenities. This user-friendly platform empowers travelers to plan their journeys better, offering insights into toll payments and facilitating informed decisions about stops and breaks during travel.
+
+Baseline Study of Medium Irrigation Projects in Telangana and Andhra Pradesh: WALAMTARI Collaboration
+The NRSC and WALAMTARI conducted a baseline study on water use efficiency in ten medium irrigation projects in Telangana and Andhra Pradesh for 2016-2017. The portal https://bhuvan-app1.nrsc.gov.in/walamtari/walamtari.php offers easy access to information on these projects, covering administrative, infrastructure, topographic, thematic, hydrological, irrigation, and socio-economic aspects. It serves as a comprehensive repository with geospatial datasets and real-time updates for effective monitoring and evaluation of medium irrigation projects.
+
+Bhuvan Portal for India's Land Use, Geomorphology & Environment Data
+The Bhuvan portal, accessible at https://bhuvan-app1.nrsc.gov.in/mines/mines.php, provides extensive data on India's Land Use, Geomorphology & Lineament, and Environmental aspects at the state level. It serves as a valuable resource for researchers, policymakers, and the general public. The platform allows users to explore detailed information on land usage patterns, geomorphology, lineament features, and environmental data across different Indian states. This user-friendly portal facilitates research, planning, and decision-making processes related to land management, environmental conservation, and developmental initiatives.
+
+Bhuvan Agriculture Portal: Empowering Farmers with Comprehensive Data
+The Bhuvan portal (https://bhuvan-app1.nrsc.gov.in/agriculture/agri.php) is a comprehensive platform consolidating agricultural information from various departments. Covering weather, crops, organic farming, animal husbandry, dairy, fisheries, drought management, and more, it serves as a vital resource for farmers. This platform empowers agricultural stakeholders with diverse datasets and insights crucial for informed decision-making, improving practices, and enhancing productivity.
+
+Bhuvan Delta Portal: Exploring Indian Region Deltas through Geospatial Data
+The portal (https://bhuvan-app1.nrsc.gov.in/deltas/index.php) provides a comprehensive resource on Indian region deltas, showcasing geospatial data from multiple sources. Offering insights into hydrology, geography, socio-economic aspects, and biodiversity, it serves as a valuable tool for researchers, policymakers, and individuals interested in understanding the dynamics and complexities of deltas in the Indian context.
+
+Bhuvan CDMA Portal: Live CDMA Property Tax Data Map
+The Bhuvan portal (https://bhuvan-app1.nrsc.gov.in/cdma/index.php) features the Live CDMA Property Tax Data Map, providing a user-friendly interface to access property tax details categorized by District and Urban Local Body (ULB). Users can easily retrieve property tax information by entering specific details or using the Assessment ID. This streamlined system facilitates efficient information retrieval for property owners, local authorities, and stakeholders involved in property taxation and management.
+
+Bhuvan State Portal: Satellite Map and Data Suite for Andhra Pradesh
+The Bhuvan portal dedicated to Andhra Pradesh, accessible at https://bhuvan-app1.nrsc.gov.in/state/AP, provides a comprehensive satellite map and a diverse suite of datasets tailored specifically for the state. Users can explore critical data layers covering geographical features, land use, administrative boundaries, socio-economic data, and more. The platform serves as a valuable resource for researchers, policymakers, and individuals interested in exploring and understanding diverse aspects of Andhra Pradesh's landscape and characteristics.
+
+Bhuvan Mapper: Crowd-Sourcing Places of Interest
+Bhuvan Mapper, available at https://bhuvan-mapper1.nrsc.gov.in/, is a user-friendly application for crowd-sourced tagging of various places of interest with detailed descriptions. This collaborative platform allows users to actively contribute to mapping their city or region by tagging and describing significant locations.
+
+Multilingual Translation Portal: Crowd-Sourcing for Bhuvan Websites
+The Multilingual Translation Portal, accessible at https://bhuvan-app1.nrsc.gov.in/multilingual, is designed for crowd-sourcing multilingual data. Its primary goal is to transform all Bhuvan websites into multilingual platforms. Contributors are invited to participate in translating content, fostering the multilingual expansion of Bhuvan websites.
+
+Geotagging Initiative for Indian Lighthouses: Enhanced Navigation and Management
+The NRSC collaborates with maritime authorities in a geotagging project for lighthouses, utilizing advanced technology and the Bhuvan Geoportal. The initiative enhances visibility and management of maritime assets, ensuring safer navigation along India's coastlines. Accessible at https://bhuvan-app1.nrsc.gov.in/shipping, the Bhuvan Geoportal allows stakeholders to visually assess lighthouse distribution. This mirrors the successful Reserve Bank of India-NRSC partnership for mapping maritime units.
+
+RKVY Geotagging Initiative: Enhancing Agricultural Infrastructure
+The Rashtriya Krishi Vikas Yojana (RKVY) geotagging initiative, accessible at https://bhuvan-app1.nrsc.gov.in/rkvy/index.php, utilizes an Android app via the Bhuvan Geoportal. With over 12,000 projects sanctioned by states, this initiative enhances monitoring and decision-making by precisely locating RKVY assets and visualizing their distribution against high-resolution imagery.v 
+
+Bhuvan AIBP Monitoring through Satellite-Based Oversight
+The Accelerated Irrigation Benefit Program (AIBP) of the Indian government has adopted satellite data from Cartosat satellites for monitoring ongoing irrigation projects. This replaces the previous reliance on ground checks, providing an objective assessment of canal and structure status. The Central Water Commission uses this approach for online monitoring of 150 projects biannually through the portal https://bhuvan-app1.nrsc.gov.in/aibp/aibp.php. The proactive system efficiently identifies areas requiring field verification, enhancing project management and decision-making. The user manual is available at https://bhuvan-app1.nrsc.gov.in/aibp/Documents/Bhuvan-AIBP_UserManual.pdf.
+
+Bhuvan-Maharashtra Water Management
+In a collaborative endeavor, the National Remote Sensing Centre (NRSC) and the Indian Space Research Organisation (ISRO) are partnering with Maharashtra's Water Resources Department (WRD) to harness the Bhuvan platform for enhanced information services. Accessible through the portal https://bhuvan-app1.nrsc.gov.in/mwrds/index.php, this initiative provides comprehensive data regarding Water Resources Management Support, Water Bodies, Land Use and Land Cover (LULC), Flood Information, Sugarcane Crop Monitoring, Irrigation Potential Utilization, and Monitoring of Irrigation Infrastructure across Maharashtra state.
+
+Geo-Informatics Empowerment for Pradhan Mantri Gram Sadak Yojana (PMGSY)
+The Pradhan Mantri Gram Sadak Yojana (PMGSY), initiated in 2000 under the Ministry of Rural Development, aims to connect rural habitations through all-weather roads. Geo-informatics plays a crucial role in planning, monitoring, and decision-making for PMGSY roads. A collaboration involving NRIDA, NRSC, and CGARD aims to use satellite imagery to map road connectivity for habitations connected through completed PMGSY roads since 2000-01. The mapped data enables comprehensive analysis of rural road networks. Access to satellite imagery: https://bhuvan-app1.nrsc.gov.in/pmgsy/home/index.php (for internal use by NRIDA and Authorized Personnel only).
+
+Bhuvan Collaborations: Harnessing Geospatial Technology
+The official website at https://bhuvan-app1.nrsc.gov.in/collaboration/ provides an extensive overview of Bhuvan's collaborative initiatives with various agencies. Led by the National Remote Sensing Centre (NRSC), Bhuvan has formed partnerships across different sectors to leverage geospatial technology, satellite imagery, and remote sensing applications. Users can explore these collaborations, showcasing the diverse applications and challenges addressed through the use of advanced technologies. This platform serves as a comprehensive repository, highlighting Bhuvan's role in advancing remote sensing and geospatial data utilization through strategic collaborations.
+
+Punjab Heritage & Tourism: Web-Based GIS for Tourist Interests
+The Punjab Heritage & Tourism Promotion Board, in collaboration with Bhuvan, has developed a web-based GIS solution to compile and share comprehensive information on tourist attractions. This platform covers details such as Hotels, Historical Places, ATMs, Bus Stops, and more. Designed to cater to the interests and needs of tourists and general users, the initiative offers an immersive and informative experience. To explore this innovative platform, visit https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php?tourismid=1, where users can gain insights into various tourist spots, accommodations, historical landmarks, essential amenities, and transportation facilities within Punjab.
+
+Punjab Remote Sensing Centre's Collaborative GIS Solutions with Bhuvan
+The Punjab Remote Sensing Centre, in collaboration with Bhuvan, has developed detailed GIS databases for Amritsar city and Ludhiana Municipal Corporation. The partnership focuses on creating location-based applications, allowing users to access information about essential amenities, road networks, and ward boundaries within these regions. These GIS databases are now publicly accessible through Bhuvan's platform, providing users with valuable insights into geographical data and enhancing overall accessibility and usability. To explore the outcomes of this collaboration, visit the Bhuvan portal at https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php?tourismid=1.
+
+Ludhiana Municipal Corporation's Collaborative Initiative with Bhuvan
+The Ludhiana Municipal Corporation collaborates with the Punjab Remote Sensing Centre, contributing information to Bhuvan. This collaboration empowers citizens with insights into wards, facilities, schemes, and a grievance system. The Bhuvan portal at https://bhuvan-app1.nrsc.gov.in/municipal/municipal.php serves as a one-stop resource, aiding effective governance and planning for Ludhiana.
+
+Karnataka Forest Department's Collaborative Data Integration on Bhuvan
+The Karnataka Forest Department collaborates with Bhuvan, sharing comprehensive datasets to facilitate visualizing various forest-related aspects. Visit the Bhuvan portal at https://bhuvan-app1.nrsc.gov.in/ka_forest/ to explore and visualize diverse forest-related information, contributing to a better understanding of Karnataka's forest landscapes.
+
+Integration of Himachal Pradesh Forest Department's Data on Bhuvan
+Collaborating with the Himachal Pradesh Forest Department, Bhuvan now hosts administrative-level data and management-related information. Explore crucial forest details, fire alerts, administrative boundaries, climate vulnerability assessments, and wildlife data on the Bhuvan portal at https://bhuvan-app1.nrsc.gov.in/hp_forest/hpfd.php. This collaboration enhances tools and insights for monitoring, managing, and understanding Himachal Pradesh's forest ecosystem.
+
+AIBP: Central Water Commission's Collaboration with NRSC/Bhuvan
+The Central Water Commission (CWC) collaborates with NRSC/Bhuvan to develop a dedicated portal, offering an inventory of projects in Phases I, II, and tools for satellite-based online monitoring of Phase-III projects under the Accelerated Irrigation Benefit Program (AIBP). Explore the collaboration at https://bhuvan-app1.nrsc.gov.in/aibp/aibp.php, showcasing advancements in satellite-based monitoring for effective assessment and management of irrigation projects across phases. The portal facilitates comprehensive monitoring and decision-making for irrigation infrastructure development in India.
+
+IMD Nowcast Data Visualization on Bhuvan
+The India Meteorological Department (IMD) collaborates with Bhuvan to visualize Nowcast datasets for Fog and Thunderstorm. Explore the datasets on Bhuvan at https://imd.gov.in/pages/nowcast.php, leveraging satellite imagery and basemaps. This collaboration enhances real-time access to weather forecasts, offering comprehensive insights into fog and thunderstorm conditions across different Indian regions.
+
+Register to Bhuvan:
+Bhuvan is using "Central Authentication Service (CAS)" to enable Single Sign-On (SSO), you can use the same log-in credential if you are already registered with Bhuvan. Registration is optional in Bhuvan. However, some features require registration.
+Step by Step guide for creating Bhuvan Account
+Step1 Click on "Bhuvan 2D"
+Step2 Click on "Login" option at the top right side of page
+Step3 Click on "New User" -fill the required details such as Name, Email, Organization etc. If already have an account login with username and password
+Step4 After account verification through email, you may login to Bhuvan
+
+Bhuvan 2D help:
+This is for help for the website https://bhuvan-app1.nrsc.gov.in/bhuvan2d/bhuvan/bhuvan2d.php . For additional details you should visit the website https://bhuvan-app1.nrsc.gov.in/bhuvan2d/bhuvan/help/bhuvan2d_help.html .
+
+Introduction :
+2D Bhuvan, a web mapping service application, provides a highly responsive, intuitive mapping interface with detailed imagery and embedded map data. It is based on the OpenLayers Open Source Project which offers powerful, user-friendly mapping technology to organize the satellite data and map data. Some of the functional capabilities of Bhuvan 2D are Map Navigation, Map Panning, its ability to add a point, polygon, line on the terrain, add drawings, measure area and distance on the terrain
+Home: The ‘Home’ icon on the top right hand side corner of the page, takes the user back to the homepage, from their current location on the Bhuvan geo-portal.
+
+Help: The ‘Help’ icon on the top right hand corner of the page gives detailed instructions to the users about using and navigating on Bhuvan 2D.
+
+Tool Button: The ‘Tool Button’ on the top right hand corner of the page, when clicked, expands to display 7 different tools. These seven tools perform the following functions:
+
+Zoom-In: This tool helps the users to zoom-in to a particular location from their current location on the 2D map.
+
+Zoom-Out: This tool helps the users to zoom-out to a particular location from their current location on the 2D map.
+
+Full- Extent: The Full-Extent tool helps to zoom out of the current location of the user to the maximum extent of the map. 
+
+Fixed Zoom-In: This tool helps the users to zoom-in to a particular location in a fixed manner, from their current location on the 2D map. Users can zoom into a location at a fixed level of zoom, at a time.
+
+Fixed Zoom-Out: This tool helps the users to zoom-out to a particular location in a fixed manner, from their current location on the 2D map. Users can zoom out from a location, at a fixed level of zoom, at a time.
+
+Go Back to Previous Extent: This tool takes the users to the immediate previous location accessed by them on the Bhuvan 2D map. With the help of this button, users can go back to all the pages they had accessed, in the backward order.
+
+Go to the Next Extent: This tool takes the users to the pages accessed by them on the Bhuvan 2D Map, in a forward manner.
+
+Overview Map: The Overview Map feature displays an additional view of the earth, with a position indicator that corresponds to the user’s current view inside the 2D map. This shows a miniature overview of the user’s current location on the map, and also reflects the change on the overview map as the user navigates on the 2D map.
+
+Find Places and Navigational tools on Bhuvan 2D:
+Find: The ‘find’ option in 2D Bhuvan helps you search for a geographic location by its geographical co-ordinates. This is placed on top of the Bhuvan 2D page.
+
+Navigational Tools:
+1. Left arrow: to change the map direction to the left.
+2. Up arrow: to change the map direction upwards.
+3. Right arrow: to change the map direction to the right
+4. Down arrow: to change the map direction downwards.
+5. Zoom controller: to zoom in/out freely on the map.
+
+Admin layers on Bhuvan 2D:
+This functionality gives users the option to access a variety of information from the list of layers- country, state, district, taluk. These layers have been properly categorized for ease of use and have been placed on the left panel of the Bhuvan 2D page.
+Country- displays the Indian boundary.
+State- displays the geographic location of all the states in the Indian sub-continent
+District- displays the geographic location of all the districts in the Indian sub-continent
+Taluk- displays the geographic location of all the taluks in the Indian sub-continent
+
+Navigational Map on Bhuvan 2D:
+This functionality overlays the WMS layers of rediff map on the Indian boundary. Users need to click on the ‘Navigational Map’ icon to view the ‘Rediff maps’ of the Indian region.
+
+My Drawing on Bhuvan 2D:
+The ‘My Drawings’ functionality allows you to create simple and/or customized drawings on the Bhuvan 2D page.
+To draw on the 2D map, click on the ‘My Drawings’ icon.
+A cursor is displayed, which helps the user in drawing on the 2D map.
+
+Add Point on Bhuvan 2D:
+This functionality helps the user to add a ‘Placemark’ on any geographical location on the map.
+To add a point on the 2D map, click on the ‘Add Point’ icon
+The ‘Add point’ icon is then displayed.
+Users have two options called ‘Enable’ and ‘Disable’ for display
+The ‘Enable’ option shows the points added onto the map.
+The ‘Disable’ option hides the points added onto the map
+
+Add line on Bhuvan 2D:
+This functionality helps you to add a line on the Bhuvan 2D page.
+To add a line on the 2D map, start left-clicking points on the map to mark the path.
+To end the point series, just double click
+Users have two options called ‘Enable’ and ‘Disable’ for display
+The ‘Enable’ option shows the line added onto the map.
+The ‘Disable’ option hides the line added onto the map
+
+Add polygon on Bhuvan 2D:
+This functionality helps you draw polygonal shapes on the 2D map.
+Click on the ‘Add polygon’ icon to create a polygonal shape on the 2D map.
+This shape can also be saved on this 2D map.
+Users have two options called ‘Enable’ and ‘Disable’ for display
+The ‘Enable’ option shows the polygonal shapes added onto the map.
+The ‘Disable’ option hides the polygonal shapes added onto the map
+
+Area Measurement on Bhuvan 2D:
+ The ‘Area tool’ allows you to define an area of map and obtain its exact measurements.
+Click on the ‘Area Measurement’ tool which is located on top of the 2D map
+Use the mouse to draw on the map such that it covers the area you desire
+The area of the selected region is now displayed.
+To stop selecting points, just double click.
+
+Distance Measurement on Bhuvan 2D:
+The ‘Distance Measurement’ tool allows you to measure the horizontal distance between two or more points on the map
+Mark the measure area using your mouse.
+Every area marked will then display the distance between the points marked.
+To stop selection, just double click.
+This value is displayed in the altitude and distance units
+
+Pan on Bhuvan 2D:
+You can use the ‘Pan’ functionality to view different locations on the plane, in a panoramic effect, by scrolling the map as required.
+
+Land services on Bhuvan 2D:
+This option allows you to see geospatial vector data on different layers. When clicked on, corresponding layers will be displayed on the 2D map and the information is displayed. ‘Land services’ has a repository of information on topics like ground water prospects, water shed, and waste lands.
+Water shed: displays the watershed data and related information of the entire Indian region.
+Wastelands: displays the wastelands data and related information of the entire Indian region.
+Ground water mapping: displays information on ground water mapping in Jharkhand, Andhra Pradesh and Assam, in the Indian region.
+
+Weather services on Bhuvan 2D:
+This option allows you to know weather data which is collected by ISRO’s Automatic Weather Station (AWS), located across the country.
+This data is collected in near real-time mode through the ‘Data Relay Transponder’ on board the ISRO’s INSAT satellites.
+Temperature, wind speed, humidity is the kind of data that is recorded and displayed
+This option also allows you to look at all the important, current and archived AWS locations in India.
+
+Ocean services on Bhuvan 2D:
+This functionality provides Potential Fishing Zone (PFZ) advisories and information on sea, derived from the satellite imagery.
+It gives you two drop down boxes for the selection of coastal states and the corresponding fishing zones.
+Upon selection, the map takes you to that location and the ‘fish’ icon is displayed.
+The ‘fish’ icon, upon clicking, gives information on direction of the wind, depth of that zone, and distance from the shore etc, of the coast.
+This information is supplied by Indian National Centre for Ocean Information Services (INCOIS). For more information please visit www.incois.gov.in
+
+Disaster services on Bhuvan 2D:
+This functionality of Bhuvan commits to providing timely support and services from space systems for strengthening the resolves of disaster management in the country. The ‘Heat Index’ functionality gives information on the ‘Heat Index’ of a city.
+Select the heat index button and zoom to the city level.
+Zoom into the place of your choice and click, the heat index is displayed.
+Bhuvan 3D on Bhuvan 2D:
+This ‘3D’ button when clicked, directly takes the users from the present location on the 2D page to the exact latitude, longitude and altitude on the 3d Globe display page.
+Thematic Data Dissemination Help:
+This is for help for the website https://bhuvan-app1.nrsc.gov.in/thematic/thematic/index.php . For additional details you should visit the website https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html .
+
+Data Selection on Thematic Data Dissemination website:
+Selecting data is the foremost thing to do for visualization, analysis or any other purposes. This facility provides very easier way to find out the desired data simply by using drop down lists. Following steps should be performed for selecting the data:
+Select the any of the Theme from the drop down list.i.e. Land Use Land Cover (50K):2005-2006
+Select the Geography covered for selected theme from drop down list.
+Corresponding “Technical document” and “Ready to Print Map” links are made available after selection of Geography from list.
+Once data is selected, number of options are made available to the users. Selected data can be visualized in the viewer, statistics can be found, any particular area can be queried and analyzed etc.
+Steps to use these options are explained in data visualisation section.
+Visit https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html for instructions with images.
+
+Data Visualization on Thematic Data Dissemination website:
+Once data is selected (based upon the theme and geography):
+visualize the selected (thematic) data in the viewer.
+After clicking on “View”, (thematic) data with corresponding legend will be displayed as shown below:
+Also if you want to see (thematic) data of any particular district of the selected Geography in the viewer , select from drop down list “Zoom to District”.
+“Remove” button can be used to remove the data from the map.
+Visit https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html for instructions with images.
+
+Statistics on Thematic Data Dissemination website:
+Statistics option gives the numerical figures about different LULC classes present in the selected (thematic) data. It also displays the pie-chart for the statistics. By default, it displays the statistics of the (thematic) data of the Geography/district selected.
+If you are viewing the (thematic) data ‘Georaphy’ wise, statistics will be displayed of that ‘Georaphy’ but district wise option is also available.
+If you are viewing district wise (thematic) data in the viewer, statistics will be displayed for that particular district.
+Visit https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html for instructions with images.
+Analysis Tool on Thematic Data Dissemination website:
+‘Analysis’ tool is a complementary tool to statistics. In later case, you can find the statistics of the predefined region but former one enables you to draw your own Area of Interest (AOI) and gives the statistics of selected AOI. However maximum allowable AOI is 1000 sq. Km.
+Select the “Analysis” tab and click on the “Start AOI selection” button to draw your AOI.
+After selecting AOI, clicking on “Analyze” will give the statistics along with pie-chart.
+Visit https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html for instructions with images.
+Metadata on Thematic Data Dissemination website:
+Metadata option gives the information about the (thematic) data being visualized. It is based on NSDI 2.0 standard.
+Web Services on Thematic Data Dissemination website:
+
+Bhuvan – Thematic Services are OGC complaint web services and published as WMS and WMTS towards interoperability. These services can be consumed by any OGC complaint application. Please read the Policy When you are using these services in your application.
+Add layers on Thematic Data Dissemination website:
+“Add Layers” option enables the users to overlays other layers available from Bhuvan on the top of Base themtic data i.e. LULC50K data.
+Using this option, Users can overlay administrative boundaries up to taluk levels, rivers, roads, rediff map etc.
+Using this, users can have better understanding of the base data.
+Visit https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html for instructions with images.
+Information Button on Thematic Data Dissemination website:
+This tool is used to get the LULC description, area along with Date of Satellite data used for mapping of any desired point. To get the description-
+Select i and click on any point of the terrain.
+To deactivate the identify control, click on the arrow pointing north east.
+Visit https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html for instructions with images.
+Tools on Thematic Data Dissemination website:
+This provides basic navigational tools used in web mapping applications .
+These tools i.e. Zoom in Box, Zoom out Box, Go to Previous Extent etc provides smooth navigation across the map.
+Click on the  tools icon to have different navigational controls.
+Visit https://bhuvan-app1.nrsc.gov.in/thematic/thematic/help/help.html for instructions with images.
+
+Bhuvan NOEDA Data Products - Satellite Products
+Cartosat-1:DEM - Version-1
+Cartosat-1:DEM - Version 1.1R1	
+Cartosat-1:DEM - Version-2R1
+Cartosat-1:DEM - Version-3R1	
+IMS-1:Hyper spectral Imager
+Resourcesat-1/Resourcesat-2:AWiFS Ortho
+Resourcesat-1/Resourcesat-2:LISS III Ortho
+For more details on the satellite products visit the site: https://bhuvan-app1.nrsc.gov.in/2dresources/bhuvanstore.php
+
+Bhuvan NOEDA Data Products - Terrestrial Sciences Products - Annual Cropland Data set - https://bhuvan-app3.nrsc.gov.in/data/download/index.php?c=p&s=NICES&p=acd&g=TS - The annual cropland products were the integrated outcome of the Land use land cover (LULC) output generated at 56m resolution under National Level LULC mapping on 1: 2,50,000 scale using multi-temporal AWiFS project. The study involved use of multi temporal AWiFS data covering Kharif (Aug –Nov), Rabi (Jan- Mar), Zaid (April- May) seasons to address spatial and temporal variability in cropping pattern and other land cover classes. The technical document can be found at https://bhuvan-app3.nrsc.gov.in/data/download/tools/document/crop_land.pdf .
+Bhuvan NOEDA Data Products - Terrestrial Sciences Products - AWiFS: Snow Albedo - https://bhuvan-app3.nrsc.gov.in/data/download/index.php?c=p&s=NICES&p=salbedo&g=TS - Broad band Snow albedo is an important geophysical parameter for studies related to weather, climate, and hydrometeorology and so on. Snow has the highest albedo in nature and hence has a significant influence on surface energy budget and on Earth's radiative balance.
+
+Bhuvan NOEDA Data Products - Terrestrial Sciences Products - AWiFS: Water Bodies Fraction - https://bhuvan-app3.nrsc.gov.in/data/download/index.php?c=p&s=NICES&g=TS&p=wbf - Water Bodies consists of all surface water bodies viz. reservoirs, irrigation tanks, lakes, ponds, and rivers / streams. The area under water bodies is dynamic in natures and hence multi-temporal satellite data was used for monitoring. An automated extraction algorithm developed is used for quick processing of satellite data acquired from Resourcesat -1, Resourcesat-2 AWiFS sensors (56m spatial resolution) which enables the generation of water body layer.
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Andaman and Nicobar Islands
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/AN.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/AN_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/AN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Andhra Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/AP.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/AP_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/AP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Arunachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/AR.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/AR_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/AR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Assam
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/AS.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/AS_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/AS.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Bihar
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/BR.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/BR_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/BR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Chandigarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/CG.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/CG_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/CG.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Chhattisgarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/CH.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/CH_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/CH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Dadra Nagar Haveli
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/DN.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/DN_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/DN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Daman and Diu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/DD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/DD_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/DD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Delhi
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/DL.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/DL_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/DL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Goa
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/GA.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/GA_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/GA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Gujarat
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/GJ.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/GJ_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/GJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Haryana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/HR.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/HR_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/HR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Himachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/HP.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/HP_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/HP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Jammu and Kashmir
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/JK.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/JK_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/JK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Jharkhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/JH.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/JH_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/JH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Karnataka
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/KA.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/KA_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/KA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Kerala
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/KL.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/KL_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/KL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Lakshadweep
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/LD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/LD_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/LD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Madhya Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MP.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/MP_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/MP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Maharashtra
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MH.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/MH_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/MH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Manipur
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MN.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/MN_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/MN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Meghalaya
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/ML.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/ML_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/ML.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Mizoram
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MZ.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/MZ_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/MZ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Nagaland
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/NL.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/NL_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/NL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Odisha
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/OR.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/OR_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/OR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Puducherry
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/PY.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/PY_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/PY.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Punjab
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/PB.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/PB_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/PB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Rajasthan
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/RJ.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/RJ_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/RJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Sikkim
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/SK.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/SK_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/SK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Tamil Nadu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/TN.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/TN_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/TN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Tripura
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/TP.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/TP_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/TP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Uttar Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/UP.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/UP_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/UP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - Uttarakhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/UK.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/UK_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/UK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2005-06 - West Bengal
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/WB.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC/MAP/WB_2005-06.pdf
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC//MAP/Stat/WB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Andaman and Nicobar Islands
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/AN.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/AN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Andhra Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/AP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/AP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Arunachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/AR.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/AR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Assam
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/AS.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/AS.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Bihar
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/BR.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/BR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Chandigarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/CG.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/CG.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Chhattisgarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/CH.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/CH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Dadra Nagar Haveli
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/DN.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/DN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Daman and Diu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/DD.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/DD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Delhi
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/DL.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/DL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Goa
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/GA.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/GA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Gujarat
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/GJ.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/GJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Haryana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/HR.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/HR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Himachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/HP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/HP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Jammu and Kashmir
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/JK.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/JK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Jharkhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/JH.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/JH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Karnataka
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/KA.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/KA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Kerala
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/KL.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/KL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Lakshadweep
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/LD.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/LD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Madhya Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/MP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/MP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Maharashtra
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/MH.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/MH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Manipur
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/MN.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/MN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Meghalaya
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/ML.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/ML.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Mizoram
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/MZ.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/MZ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Nagaland
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/NL.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/NL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Odisha
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/OR.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/OR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Puducherry
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/PY.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/PY.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Punjab
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/PB.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/PB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Rajasthan
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/RJ.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/RJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Sikkim
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/SK.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/SK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Tamil Nadu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/TN.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/TN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Telangana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Tripura
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/TP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/TP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Uttar Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/UP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/UP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - Uttarakhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/UK.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/UK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2011-12 - West Bengal
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/WB.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC502/MAP/WB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Andaman and Nicobar Islands
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/AN.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/AN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Andhra Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/AP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/AP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Arunachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/AR.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/AR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Assam
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/AS.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/AS.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Bihar
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/BR.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/BR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Chandigarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/CG.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/CG.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Chhattisgarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/CH.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/CH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Dadra Nagar Haveli
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/DN.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/DN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Daman and Diu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/DD.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/DD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Delhi
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/DL.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/DL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Goa
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/GA.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/GA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Gujarat
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/GJ.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/GJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Haryana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/HR.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/HR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Himachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/HP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/HP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Jammu and Kashmir
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/JK.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/JK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Jharkhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/JH.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/JH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Karnataka
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/KA.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/KA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Kerala
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/KL.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/KL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Lakshadweep
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/LD.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/LD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Madhya Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/MP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/MP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Maharashtra
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/MH.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/MH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Manipur
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/MN.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/MN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Meghalaya
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/ML.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/ML.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Mizoram
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/MZ.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/MZ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Nagaland
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/NL.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/NL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Odisha
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/OR.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/OR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Puducherry
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/PY.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/PY.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Punjab
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/PB.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/PB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Rajasthan
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/RJ.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/RJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Sikkim
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/SK.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/SK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Tamil Nadu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/TN.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/TN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Telangana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Tripura
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/TP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/TP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Uttar Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/UP.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/UP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - Uttarakhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/UK.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/UK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K)[LULC-50k]: 2015-16 - West Bengal
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/lulc.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/WB.jpg
+Statistics - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/MAP/WB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Andaman and Nicobar Islands
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/AN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Andhra Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/AP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Arunachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/AR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Assam
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/AS.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Bihar
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/BR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Chandigarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/CG.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Chhattisgarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/CH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Dadra Nagar Haveli
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/DN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Daman and Diu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/DD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Delhi
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/DL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Goa
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/GA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Gujarat
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/GJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Haryana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/HR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Himachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/HP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Jammu and Kashmir
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/JK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Jharkhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/JH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Karnataka
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/KA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Kerala
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/KL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Lakshadweep
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/LD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Madhya Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/MP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Maharashtra
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/MH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Manipur
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/MN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Meghalaya
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/ML.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Mizoram
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/MZ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Nagaland
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/NL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Odisha
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/OR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Puducherry
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/PY.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Punjab
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/PB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Rajasthan
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/RJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Sikkim
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/SK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Tamil Nadu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/TN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Tripura
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/TP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Uttar Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/UP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - Uttarakhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/UK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (50K): 2015-16 - West Bengal
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC503/map/WB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Andaman and Nicobar Islands
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/AN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Andhra Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/AP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Arunachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/AR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Assam
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/AS.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Bihar
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/BR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Chandigarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/CG.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Chhattisgarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/CH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Dadra Nagar Haveli
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/DN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Daman and Diu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/DD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Delhi
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/DL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Goa
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/GA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Gujarat
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/GJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Haryana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/HR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Himachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/HP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Jammu and Kashmir
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/JK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Jharkhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/JH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Karnataka
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/KA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Kerala
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/KL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Lakshadweep
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/LD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Madhya Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/MP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Maharashtra
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/MH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Manipur
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/MN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Meghalaya
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/ML.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Mizoram
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/MZ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Nagaland
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/NL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Odisha
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/OR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Puducherry
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/PY.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Punjab
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/PB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Rajasthan
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/RJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Sikkim
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/SK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Tamil Nadu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/TN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Tripura
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/TP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Uttar Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/UP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - Uttarakhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/UK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2005-06 - West Bengal
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/map/WB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Andaman and Nicobar Islands
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/AN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Andhra Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/AP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Arunachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/AR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Assam
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/AS.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Bihar
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/BR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Chandigarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/CG.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Chhattisgarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/CH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Dadra Nagar Haveli
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/DN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Daman and Diu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/DD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Delhi
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/DL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Goa
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/GA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Gujarat
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/GJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Haryana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/HR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Himachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/HP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Jammu and Kashmir
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/JK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Jharkhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/JH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Karnataka
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/KA.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Kerala
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/KL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Lakshadweep
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/LD.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Madhya Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/MP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Maharashtra
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/MH.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Manipur
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/MN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Meghalaya
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/ML.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Mizoram
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/MZ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Nagaland
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/NL.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Odisha
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/OR.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Puducherry
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/PY.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Punjab
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/PB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Rajasthan
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/RJ.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Sikkim
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/SK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Tamil Nadu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/TN.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Tripura
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/TP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Uttar Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/UP.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - Uttarakhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/UK.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Degradation (50K): 2015-16 - West Bengal
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld0506/ATLASLD.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ld1516/map/WB.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Urban Land Use (10K) NUIS:
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/NUIS_Manual.pdf
+
+Wasteland (50K): 2008-09:
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl/WL0809.pdf
+
+Wasteland (50K): 2015-16 - Andaman and Nicobar Islands
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/AN
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Andhra Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/AP
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Arunachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/AR
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Assam
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/AS
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Bihar
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/BR
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Chandigarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/CG
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Chhattisgarh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/CH
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Dadra Nagar Haveli
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/DN
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Daman and Diu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/DD
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Delhi
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/DL
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Goa
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/GA
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Gujarat
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/GJ
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Haryana
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/HR
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Himachal Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/HP
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Jammu and Kashmir
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/JK
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Jharkhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/JH
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Karnataka
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/KA
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Kerala
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/KL
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Lakshadweep
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/LD
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Madhya Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/MP
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Maharashtra
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/MH
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Manipur
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/MN
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Meghalaya
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/ML
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Mizoram
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/MZ
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Nagaland
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/NL
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Odisha
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/OR
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Puducherry
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/PY
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Punjab
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/PB
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Rajasthan
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/RJ
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Sikkim
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/SK
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Tamil Nadu
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/TN
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Tripura
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/TP
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Uttar Pradesh
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/UP
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - Uttarakhand
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/UK
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Wasteland (50K): 2015-16 - West Bengal
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/WL1516.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/map/WB
+Wasteland Atlas - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/wl1516/Wasteland_Atlas_2019_Full_opt.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Glacial Lakes/Waterbodies:
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/GLWB/01.pdf
+
+Geomorphology (50K): 2005-06:
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/gm/gm.pdf
+
+Lineament (50K):
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/ln/ln.pdf
+
+Flood Hazard – Assam State:
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/fldhz/as-hz.pdf
+Map - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/fldhz/map/18.jpg
+
+Flood Annual Layers for Bihar and Assam:
+Technical Document - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/fld/al.pdf
+
+Land Use Land Cover (250K)[LULC-250k]: 2005-06
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0506.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0506.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0506.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0506.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0506.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0506.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2006-07
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0607.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0607.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0607.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0607.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0607.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0607.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2007-08
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0708.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0708.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0708.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0708.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0708.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0708.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2008-09
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0809.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0809.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0809.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0809.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0809.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0809.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2009-10
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0910.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/0910.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0910.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/0910.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0910.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/0910.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2010-11
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1011.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1011.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1011.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1011.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1011.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1011.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2011-12
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1112.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1112.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1112.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1112.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1112.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1112.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2012-13
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1213.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1213.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1213.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1213.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1213.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1213.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2013-14
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1314.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1314.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1314.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1314.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1314.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1314.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2014-15
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1415.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1415.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1415.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1415.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1415.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1415.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2015-16
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1516.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1516.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1516.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1516.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1516.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1516.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2016-17
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1617.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1617.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1617.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1617.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1617.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1617.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2018-19
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1819.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/1819.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1819.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/1819.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1819.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/1819.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2020-21
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/2021.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/2021.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/2021.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/2021.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/2021.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/2021.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2021-22
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/2122.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/2122.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/2122.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/2122.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/2122.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/2122.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
+
+Land Use Land Cover (250K)[LULC-250k]: 2022-23
+Technical Document - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/2223.pdf
+Map - Kharif - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/kharif/MAP/2223.pdf
+Technical Document - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/2223.pdf
+Map - Rabi - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/rabi/MAP/2223.pdf
+Technical Document - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/2223.pdf
+Map - Annual - https://bhuvan-app1.nrsc.gov.in/2dresources/thematic/LULC250/MAP/2223.pdf
+To learn more about the dataset visit https://bhuvan.nrsc.gov.in/wiki/index.php/Thematic_Data 
