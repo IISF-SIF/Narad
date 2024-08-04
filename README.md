@@ -52,10 +52,14 @@ Clone the repository:
 
 # Contributors
 
-Arav Jain: Developed the multilingual, multi-speed RAG pipeline for delivering efficient, context-aware responses.
-Vatsal Jha: Implemented the user-specific recommender system.
-Ayushman Kar: Led backend implementation, database integration, and deployment.
-Dilshad Sukheswala: Managed backend development and user interface design.
+**Arav Jain**: Developed the multilingual, multi-speed RAG pipeline for delivering efficient, context-aware responses.
+
+**Vatsal Jha**: Implemented the user-specific recommender system.
+
+**Ayushman Kar**: Led backend implementation, database integration, and deployment.
+
+**Dilshad Sukheswala**: Managed backend development and user interface design.
+
 
 [![Arav Jain](https://img.shields.io/badge/Arav_Jain-%E2%9D%A4%EF%B8%8F-brightgreen)](https://github.com/AravJain007)
 [![Vatsal Jha](https://img.shields.io/badge/Vatsal_Jha-%E2%9D%A4%EF%B8%8F-blue)](https://github.com/Vatsal-Jha256)
