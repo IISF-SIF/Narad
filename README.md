@@ -54,7 +54,7 @@ Clone the repository:
 
 **Arav Jain**: Developed the multilingual, multi-speed RAG pipeline for delivering efficient, context-aware responses.
 
-**Vatsal Jha**: Implemented the user-specific recommender system.
+**Vatsal Jha**: Implemented the user-specific recommender system, finetuned and detoxified the models.
 
 **Ayushman Kar**: Led backend implementation, database integration, and deployment.
 
